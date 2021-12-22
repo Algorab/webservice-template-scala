@@ -1,4 +1,4 @@
-webservices-template-scala
+webservices-template-scala: abandoned
 ==========================
 
 This is a Webservices-Scala bootstrap. Everything
